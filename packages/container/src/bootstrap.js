@@ -2,7 +2,7 @@ import React from 'react';
 import  ReactDOM  from 'react-dom';
 import App from './App';
 
-ReactDOM.render(<App/>,document.querySelector('#root'));
+ReactDOM.render(<App/>,document.querySelector('#root1'));
 // our container doesn't need a mount function
 // whenever the container application is gonna be shown
 // inside the browser.
